@@ -1,0 +1,12 @@
+C:\Users\Rohit Dasari\source\repos\Param_Arrays\bin\Debug\netcoreapp3.1\Param_Arrays.exe
+C:\Users\Rohit Dasari\source\repos\Param_Arrays\bin\Debug\netcoreapp3.1\Param_Arrays.deps.json
+C:\Users\Rohit Dasari\source\repos\Param_Arrays\bin\Debug\netcoreapp3.1\Param_Arrays.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Param_Arrays\bin\Debug\netcoreapp3.1\Param_Arrays.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Param_Arrays\bin\Debug\netcoreapp3.1\Param_Arrays.dll
+C:\Users\Rohit Dasari\source\repos\Param_Arrays\bin\Debug\netcoreapp3.1\Param_Arrays.pdb
+C:\Users\Rohit Dasari\source\repos\Param_Arrays\obj\Debug\netcoreapp3.1\Param_Arrays.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Param_Arrays\obj\Debug\netcoreapp3.1\Param_Arrays.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Param_Arrays\obj\Debug\netcoreapp3.1\Param_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Param_Arrays\obj\Debug\netcoreapp3.1\Param_Arrays.dll
+C:\Users\Rohit Dasari\source\repos\Param_Arrays\obj\Debug\netcoreapp3.1\Param_Arrays.pdb
+C:\Users\Rohit Dasari\source\repos\Param_Arrays\obj\Debug\netcoreapp3.1\Param_Arrays.genruntimeconfig.cache
