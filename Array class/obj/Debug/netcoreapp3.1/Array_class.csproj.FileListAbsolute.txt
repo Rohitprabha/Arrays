@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Array_class\bin\Debug\netcoreapp3.1\Array_class.exe
+C:\Users\Rohit Dasari\source\repos\Array_class\bin\Debug\netcoreapp3.1\Array_class.deps.json
+C:\Users\Rohit Dasari\source\repos\Array_class\bin\Debug\netcoreapp3.1\Array_class.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Array_class\bin\Debug\netcoreapp3.1\Array_class.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Array_class\bin\Debug\netcoreapp3.1\Array_class.dll
+C:\Users\Rohit Dasari\source\repos\Array_class\bin\Debug\netcoreapp3.1\Array_class.pdb
+C:\Users\Rohit Dasari\source\repos\Array_class\obj\Debug\netcoreapp3.1\Array_class.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Array_class\obj\Debug\netcoreapp3.1\Array_class.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Array_class\obj\Debug\netcoreapp3.1\Array_class.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Array_class\obj\Debug\netcoreapp3.1\Array_class.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Array_class\obj\Debug\netcoreapp3.1\Array_class.dll
+C:\Users\Rohit Dasari\source\repos\Array_class\obj\Debug\netcoreapp3.1\Array_class.pdb
+C:\Users\Rohit Dasari\source\repos\Array_class\obj\Debug\netcoreapp3.1\Array_class.genruntimeconfig.cache
